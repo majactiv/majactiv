@@ -1,0 +1,3 @@
+- 👋 Hi, we are @majactiv
+- 🌱 we currently working in web development and cloud computing
+- 📫 Please email majactiv@gmail.com to reach us
